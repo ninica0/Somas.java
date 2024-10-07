@@ -7,6 +7,7 @@ public class Somas {
 			
 			resultado +=i;
 		}
+
 		System.out.println("O resultado das somas é: "+resultado);
 	}
 }
